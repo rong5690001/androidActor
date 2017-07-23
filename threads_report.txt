@@ -1,0 +1,98 @@
+"Thread-21498@4213" prio=5 waiting
+  java.lang.Thread.State: WAITING
+	  at com.example.administrator.myapplication.socket.SocketActivity.connectTCPServer(SocketActivity.java:90)
+	  at com.example.administrator.myapplication.socket.SocketActivity.access$200(SocketActivity.java:25)
+	  at com.example.administrator.myapplication.socket.SocketActivity$2.run(SocketActivity.java:67)
+
+"main@4161" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"Signal Catcher@4228" daemon prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"ReferenceQueueDaemon@4229" daemon prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"FinalizerDaemon@4230" daemon prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"FinalizerWatchdogDaemon@4231" daemon prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"HeapTaskDaemon@4232" daemon prio=5 waiting for monitor entry
+  java.lang.Thread.State: BLOCKED
+	 Incompatible thread state: thread not suspended
+
+"Binder_1@4233" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"Binder_2@4234" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"Thread-21482@4235" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"RenderThread@4236" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"hwuiTask1@4237" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"hwuiTask2@4238" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"Binder_3@4239" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"AsyncTask #1@4240" prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"AsyncTask #2@4241" prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"Thread-21490@4170" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"AsyncTask #3@4242" prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"AsyncTask #4@4180" prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"AsyncTask #5@4181" prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"AsyncTask #6@4190" prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"AsyncTask #7@4214" prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"AsyncTask #8@4215" prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"Thread-21501@4220" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
